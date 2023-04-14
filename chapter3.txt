@@ -1,1 +1,2 @@
-experimental chapter 3
+
+this is the chapter we actually want
